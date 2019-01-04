@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloud-api" />
+        <module name="mircoservicecloud-consumer-dept-80" />
+        <module name="mircoservicecloud-provider-dept-8001" />
+        <module name="servicecloud-eureka-7001" />
+        <module name="servicecloud-eureka-7002" />
+        <module name="servicecloud-eureka-7003" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecloud" target="1.8" />
+      <module name="microservicecloud-api" target="1.8" />
+      <module name="mircoservice-eureka-7003" target="1.8" />
+      <module name="mircoservicecloud-consumer-dept-80" target="1.8" />
+      <module name="mircoservicecloud-eureka-7001" target="1.8" />
+      <module name="mircoservicecloud-eureka-7002" target="1.8" />
+      <module name="mircoservicecloud-eureka-7003" target="1.8" />
+      <module name="mircoservicecloud-provider-dept-8001" target="1.8" />
+      <module name="mircoservicecloudeureka7001" target="1.8" />
+      <module name="servicecloud-eureka-7001" target="1.8" />
+      <module name="servicecloud-eureka-7002" target="1.8" />
+      <module name="servicecloud-eureka-7003" target="1.8" />
+      <module name="wewewadwad" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
